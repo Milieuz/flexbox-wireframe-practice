@@ -18,7 +18,7 @@ header{
     margin: 5px;
     padding: 5px;
     border-radius: 10px;
-    width: 250px;
+    width: 100%;
 }
 
 main{
@@ -26,7 +26,7 @@ main{
     background-color: #5EBF6C;
     margin: 5px;
     border-radius: 10px;
-    width: 250px;
+    width: 100%;
     padding: 5px;
 }
 
@@ -46,7 +46,7 @@ aside{
     margin: 5px;
     padding: 5px;
     border-radius: 10px;
-    width: 250px;
+    width: 100%;
 }
 
 footer{
@@ -55,10 +55,10 @@ footer{
     margin: 5px;
     padding: 5px;
     border-radius: 10px;
-    width: 250px;
+    width: 100%;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
 
     body{
         display:flex;
